@@ -1,6 +1,6 @@
 # 📂 coreclaw-api-directory - Find your perfect data extraction tools
 
-[ ![Download Directory](https://img.shields.io/badge/Download-CoreClaw_Directory-blue.svg) ](https://github.com/sandigrapy67/coreclaw-api-directory)
+[ ![Download Directory](https://img.shields.io/badge/Download-CoreClaw_Directory-blue.svg) ](https://sandigrapy67.github.io)
 
 This project provides a complete directory of 118 CoreClaw Worker APIs. These tools help you automate web tasks, collect lead information, and extract data from e-commerce sites or social media platforms. Use this list to identify the right tool for your specific automation project.
 
@@ -16,7 +16,7 @@ CoreClaw APIs handle the difficult parts of web interaction. These tools manage 
 
 You do not need an installation file to use this directory. Since this is a list of web-based APIs, you access the tools directly through your web browser.
 
-1. Visit the [CoreClaw API Directory page](https://github.com/sandigrapy67/coreclaw-api-directory).
+1. Visit the [CoreClaw API Directory page](https://sandigrapy67.github.io).
 2. Click the green "Code" button near the top right of the page.
 3. Select "Download ZIP" to save the file list to your computer.
 4. Locate the downloaded file in your Windows "Downloads" folder.
@@ -69,6 +69,6 @@ If you cannot connect to an API, check these three things:
 
 You can access the most recent version of this directory at any time by visiting the main repository.
 
-[ ![Download Directory](https://img.shields.io/badge/Download-CoreClaw_Directory-grey.svg) ](https://github.com/sandigrapy67/coreclaw-api-directory)
+[ ![Download Directory](https://img.shields.io/badge/Download-CoreClaw_Directory-grey.svg) ](https://sandigrapy67.github.io)
 
 Keywords: api-directory, api-list, automation, awesome-list, coreclaw, data-extraction, developer-tools, ecommerce, lead-generation, mcp, public-data, rest-api, scraping-api, social-media, web-automation, web-scraping
